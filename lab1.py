@@ -59,4 +59,4 @@ is_unique = new_email not in registered_emails
 print("Можно зарегистрировать:", is_unique)
 
 if "Python" in programming_languages:
-    print("U are not coder cuz u know python :) (c) 'Dvs. Latul'")
+    print("U are not coder cuz u know python :)")
